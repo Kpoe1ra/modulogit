@@ -1,1 +1,2 @@
 git diff - command which lists all changes made
+obs: nao ha mudancas caso o arquivo inserido nao tenha sido submetido a um commit
